@@ -1,7 +1,6 @@
 package studio1;
 
 import java.util.Scanner;
-
 public class HiOne {
 
 	/**
@@ -17,6 +16,8 @@ public class HiOne {
 		//      Hi, Pat.  How are you?
 		// if the value of name is "Pat"
 		//
+
+
 
 	}
 
